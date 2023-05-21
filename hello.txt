@@ -19,3 +19,4 @@ hello,GIT!
 hello,GIT!
 hello,GIT!
 hello,GIT222333333333master!
+hello,GIT222!hot-fix test
